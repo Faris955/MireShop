@@ -36,7 +36,7 @@ const Header = () => {
             </span>
           </div>
         </Link>
-        <Link className="flex justify-center items-center hover:text-red-500 transition">
+        <Link to="/" className="flex justify-center items-center hover:text-red-500 transition">
           <span>Home</span>
         </Link>
 
