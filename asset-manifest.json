@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "//Faris955.github.io/MireShop/static/css/main.dfae01ee.css",
+    "main.js": "//Faris955.github.io/MireShop/static/js/main.b5b04e54.js",
+    "static/media/cwe.png": "//Faris955.github.io/MireShop/static/media/cwe.d274ae8309d91450fb7a.png",
+    "static/media/logo.png": "//Faris955.github.io/MireShop/static/media/logo.48f7029292c23cc24b9b.png",
+    "index.html": "//Faris955.github.io/MireShop/index.html",
+    "main.dfae01ee.css.map": "//Faris955.github.io/MireShop/static/css/main.dfae01ee.css.map",
+    "main.b5b04e54.js.map": "//Faris955.github.io/MireShop/static/js/main.b5b04e54.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dfae01ee.css",
+    "static/js/main.b5b04e54.js"
+  ]
+}
